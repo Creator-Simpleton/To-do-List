@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+toDo
+*.csv
 
 # Compiled Object files
 *.slo
